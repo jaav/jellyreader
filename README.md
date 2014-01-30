@@ -1,4 +1,4 @@
-myJellyreader
+myJellyreader(modified)
 ===========
 
 ![app screenshot](http://nimbusbase.github.io/jellyreader/app_screenshot.png)
